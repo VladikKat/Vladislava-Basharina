@@ -9,7 +9,7 @@
 3. Bug-reports
 4. Postman Collection
 
-5. Java (Работы с курсов)
+5. [Java (Работы с курсов)](https://github.com/VladikKat/JAVA/blob/main/README.md)
 6. Автоматизированное тестирование
 
 
