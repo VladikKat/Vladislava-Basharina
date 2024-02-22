@@ -1,8 +1,20 @@
-# Vladislava-Basharina
+# Резюме
 
-![Header](https://github.com/VladikKat/Vladislava-Basharina/blob/main/assets/1614337252_77-p-temno-svetlii-fon-89.jpg)
+![Header](assets/2024-02-22_17-36-55.png)
 
-## I'm a beginner QA Ingeneer
+## Portfolio
+
+1. Чек-листы
+2. Тест-кейсы и тест-suite
+3. Bug-reports
+4. Postman Collection
+
+5. Java (Работы с курсов)
+6. Автоматизированное тестирование
+
+
+ 
+
 
 
 ### 📁 Languages and tools:
@@ -18,4 +30,10 @@
 
 
 
-Follom Me
+Контакты
+
+vladislava.bascharina@mail.com
+
++7 978 547 37 74
+
+Соц сети
