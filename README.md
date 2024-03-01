@@ -5,7 +5,7 @@
 ## Portfolio
 
 1. Чек-листы
-2. Тест-кейсы и тест-suite
+2. [Тест-кейсы](<assets/Тестирование формы.pdf>)
 3. Bug-reports
 4. Postman Collection
 
