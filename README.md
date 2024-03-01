@@ -1,6 +1,6 @@
 # Резюме
 
-![Header](assets/2024-02-22_17-36-55.png)
+![Header](assets/2024-03-01_18-54-35.png)
 
 ## Portfolio
 
