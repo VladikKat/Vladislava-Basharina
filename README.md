@@ -5,7 +5,7 @@
 ## Portfolio
 
 1. Чек-листы
-2. [Тест-кейсы](<assets/Тестирование формы.pdf>)
+2. [Тест-кейсы](https://drive.google.com/drive/folders/1n7mpz_-sRSL42ZvoERrM-LeI5QYUPv0R?usp=sharing)
 3. Bug-reports
 4. Postman Collection
 
