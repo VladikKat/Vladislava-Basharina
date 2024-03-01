@@ -29,10 +29,12 @@
 
 
 
-Контакты
+### Контакты
 
 vladislava.bascharina@mail.com
 
 +7 978 547 37 74
 
-Соц сети
+#### Соц сети
+
+<img src="https://user-life.com/uploads/posts/2019-06/1560957172_vk.png" title="https://vk.com/vladislava1234" alt="VK" width="49" height="40"/>
