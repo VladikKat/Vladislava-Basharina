@@ -2,7 +2,20 @@
 
 ![Header](assets/2024-03-01_18-54-35.png)
 
-## Portfolio
+## Курсы и изученные материалы
+
+1. [с 09.2023 по 03.2024 Курсы для тестировщиков от Нетологии](https://netology.ru/programs/qa)
+
+   
+2. [Тестировщик с нуля за 10 часов / Полный курс QA/ Теория и практика](https://www.youtube.com/watch?v=jFDMhgcvDh4&t=1321s)
+   
+3. Книга Тестирование программного обеспечения. Базовый курс
+Святослав Куликов (2020)
+
+4. [Основы программирования: Легендарный Гарвардский курс CS50](https://www.youtube.com/watch?v=Sy_wba7l1UU)
+5. Английский для IT специалистов (от Нетологии)
+
+## Портфолио
 
 1. [Чек-листы](https://drive.google.com/drive/folders/11CkbQMD-vQBTFQ7qM45sHG6JZzvXZCDI?usp=sharing)
 2. [Тест-кейсы](https://drive.google.com/drive/folders/1n7mpz_-sRSL42ZvoERrM-LeI5QYUPv0R?usp=sharing)
